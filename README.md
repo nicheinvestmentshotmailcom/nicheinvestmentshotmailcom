@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gavin Nichols
+- 👀 I’m interested in extracting scientific research grade molllusc biodiversity occurrence records from posts made to a FB group called "Australian Mollusc Species on Facebook"
+- I have no coding qualifictions but understand the datasets must use Darwin Core Terms and formats. 
+- 🌱 I’m currently intersted in how mistakes have been made in the GEORFERENCED RECORDS which includes the lcoation of the preserved specimen not the 
+- location of where the specimen was found.
+- 📫 How to reach me ; email me at nicheinvestments@hotmail.com
